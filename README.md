@@ -10,5 +10,5 @@ Esse é um projeto de uma página de consultas para clínicas, foi baseado em um
 Esse projeto foi desenvolvido durante o 7 days of code da Alura com as seguintes tecnologias:<br>
 -HTML<br>
 -CSS<br>
--Alura<br>
+-Figma<br>
 -Git e GitHub
