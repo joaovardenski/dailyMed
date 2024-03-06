@@ -26,3 +26,10 @@ body {
     font-family: var(--fonte-principal);
     font-weight: 400;
 }
+
+@media screen and (min-width: 1200px) {
+    .cabecalho, .consultas {
+        padding-left: 10%;
+    }
+
+}
